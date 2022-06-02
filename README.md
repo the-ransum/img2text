@@ -46,3 +46,8 @@ root@hostname:[img2text/] $ cat ./output.txt
 Hello World!
 root@hostname:[img2text/] $ 
 ```
+
+## To do
+
+- [ ] Add *destination* and *output* flags.
+- [ ] Improve the cross compatability between Linux and Windows.
